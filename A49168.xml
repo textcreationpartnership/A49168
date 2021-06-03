@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Mayor's right of electing a sheriff asserted against all pretensions of a popular faction</title>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49168</idno><idno type="EEBO-CITATION">11761408</idno>
+  <idno type="VID">48694</idno>
+  <idno type="EEBO-PROQUEST">2240855737</idno>
+  
+            <idno type="STC">Wing L3051</idno>
+            <idno type="STC">ESTC R19474</idno>
+            <idno type="OCLC">11761408</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48694)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 540:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Mayor's right of electing a sheriff asserted against all pretensions of a popular faction</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Brome,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:48694:1"/>
+            <head>THE LORD MAYORS Right of Electing a Sheriff Asserted against All <hi>PRETENSIONS</hi> of a Popular <hi>FACTION.</hi>
+            </head>
+            <p>THE Subject of <hi>the Right of Electing Sheriffs</hi> has of late furnish'd Matter more than enough for <hi>Popular Prints</hi> and <hi>Discourses:</hi> And as it is a Point of Great Importance in the Consequence of Resolving it, <hi>One</hi> way or <hi>another;</hi> So has it rais'd a General Curiosity to Enquire into the <hi>True State,</hi> and to hearken after the <hi>Issue</hi> of this <hi>Question.</hi> With This Appe<g ref="char:EOLhyphen"/>tite, I betook my self to the reading of Several Papers, pretending Expresly to handle This Text; and to set People Right in the Understanding of the <hi>Present Controversie:</hi> Such as <hi>The Modest Enquiry concerning the Election of the Sheriffs of</hi> London; And others of the same Stamp. But when I came to look for <hi>Satisfaction</hi> about the bus'ness of the <hi>Sheriffs,</hi> I found my self up to the Ears presently in <hi>Miscarriages of State; Ironi<g ref="char:EOLhyphen"/>cal Insinuations</hi> (to make them no worse) of <hi>Arbitrary Practices,</hi> and <hi>Designs</hi> in his <hi>Majesty; Corruption,</hi> and <hi>Insufficiency</hi> in his <hi>Ministers; Popish Successors; French Confe<g ref="char:EOLhyphen"/>deracies; Meal-Tub Plots; Perjuries; Impostures; Subornations;</hi> Libellous Reflexions upon the <hi>Lord Mayor;</hi> The <hi>Loyal</hi> and <hi>Honourable</hi> Part of the <hi>Citizens,</hi> and the <hi>Law<g ref="char:EOLhyphen"/>full Government</hi> of the <hi>City,</hi> &amp;c. What is all this now, to the <hi>CONFIRMATION</hi> of the <hi>Common-Hall,</hi> or the <hi>JƲRISDICTION</hi> of the <hi>Sheriffs?</hi> which, (although the main, and indeed the onely Stress of the Case) does not take up one fourth part of the Pamphlet: And that stuft up too, with <hi>Vulgar Amusements;</hi> and little or no force of <hi>Authority,</hi> or <hi>Persuasion.</hi> Let any body Judge now of the <hi>Drift,</hi> and <hi>Intent</hi> of these Papers, where there is so <hi>little</hi> said to the <hi>Argument,</hi> and so <hi>much pains taken;</hi> and so much <hi>Skill,</hi> therewithall, to <hi>Defame,</hi> to <hi>Embroile,</hi> and to <hi>Enrage</hi> the <hi>multi<g ref="char:EOLhyphen"/>tude</hi> against the <hi>Government.</hi>
+            </p>
+            <p>This will appear no Uncharitable Construction, to any man that Considers, first, the <hi>Tendencie</hi> of the Proceeding. Secondly, The <hi>Train,</hi> and <hi>Method</hi> of it. Thirdly, The <hi>Humour,</hi> and <hi>Condition</hi> of the <hi>Instruments</hi> that <hi>Manage</hi> it.</p>
+            <p>To the <hi>First,</hi> It is an <hi>Incentive,</hi> as well Dispos'd and Accommodated to the moving of a <hi>Sedition,</hi> as the Wit of man could Contrive. For what can be more <hi>Provoking</hi> than to Proclaim the Government <hi>Ʋnjust,</hi> and <hi>Arbitrary,</hi> to the Highest Degree? And so to <hi>follow</hi> This <hi>Calumny,</hi> with putting it into the Peoples Heads that they have a <hi>Right</hi> to Deliver themselves from This <hi>(Imaginary) Oppression?</hi> And then, To Sound the Trumpet to the Battel; by Bidding them <hi>Stand up,</hi> and <hi>Vindicate their Privi<g ref="char:EOLhyphen"/>leges.</hi>
+            </p>
+            <p>Now, as to the <hi>METHOD,</hi> It is the very same that brought on the Confusions of the late times: It is the very <hi>Question</hi> that was started in 1641. And the <hi>Faction</hi> could never break in upon the <hi>Crown,</hi> the <hi>Church,</hi> and the <hi>People,</hi> till they had first <hi>Subverted,</hi> and <hi>Revers'd</hi> the Government of <hi>This City.</hi> There must be <hi>Power</hi> to Justi<g ref="char:EOLhyphen"/>fie
+<pb n="2" facs="tcp:48694:2"/>
+               <hi>Wrong;</hi> And when it comes to that once, there is no Contending by <hi>Conscience,</hi> and <hi>Reason,</hi> with <hi>Men, Money,</hi> and <hi>Ammunition;</hi> And when the <hi>Rebellion</hi> is once got into the <hi>Saddle,</hi> there will never want <hi>Lawyers</hi> to <hi>Warrant</hi> it. In short, there needs no more to the Introducing of a <hi>Democracy,</hi> and making <hi>London</hi> a Theatre of <hi>Vio<g ref="char:EOLhyphen"/>lence,</hi> and <hi>Disorder;</hi> as much as ever <hi>Rome,</hi> or <hi>Florence</hi> was; than to Possess the People that the <hi>Right</hi> is in <hi>Them</hi> to <hi>Govern.</hi>
+            </p>
+            <p>How much then does it concern the <hi>Lord Mayor,</hi> and <hi>Aldermen</hi> to Assert their <hi>Pri<g ref="char:EOLhyphen"/>vileges;</hi> and <hi>all good Citizens</hi> to Uphold the <hi>Government</hi> of <hi>This City</hi> upon its <hi>Anci<g ref="char:EOLhyphen"/>ent Foundation;</hi> which cannot be, but by maintaining their <hi>OLD CƲSTOMS;</hi> Nay, how much does it Import the <hi>King;</hi> (and, I may say, the <hi>Kingdom</hi> also) to hin<g ref="char:EOLhyphen"/>der any <hi>Irregular Change</hi> in this Great City; which does so Powerfully Influence the <hi>whole?</hi> and to <hi>Protect</hi> the <hi>Citizens</hi> in their <hi>Due Rights,</hi> and <hi>Liberties</hi> against All <hi>En<g ref="char:EOLhyphen"/>croachments,</hi> or <hi>Invasions whatsoever.</hi>
+            </p>
+            <p>Lastly, It is a <hi>Further,</hi> and a <hi>strong Presumption,</hi> that there's Mischief a Brewing; the finding so many of the <hi>Old Instruments,</hi> that Confounded the <hi>Late Government,</hi> at work now again under the self same Masque of <hi>Religion, Liberty,</hi> and <hi>Property; Plots, Evil Counsellors, Popery,</hi> &amp;c. to Engage us in <hi>New Troubles.</hi>
+            </p>
+            <p>As to the <hi>Seditious</hi> Part of The <hi>Republican</hi> Papers that have come abroad upon This Subject, somewhat has been said already; and more may be said hereafter: And to the rest, It shall suffice to speak Plainly, and Briefly to the matter in hand; and rather to Encounter Objections That way, by Clearing the main Cause, than to Weary out either the Reader, or my self, with Frivolous, and Tedious Recitals.</p>
+            <p>For Method's sake, before we come to Treat of <hi>the Right of Election,</hi> we shall first set forth the <hi>Ʋsage</hi> in the <hi>Formalities,</hi> at the <hi>time</hi> of <hi>Election;</hi> And, after That, the <hi>Different Ʋsage</hi> in Chusing Citizens to <hi>Parliament:</hi> which we find Extracted, word for word, out of <hi>Stow</hi>'s <hi>Survey of London,</hi> [in <hi>the Book of Habits</hi>] Imprinted <hi>Anno</hi> 1617. And in These words following.</p>
+            <div type="procedure">
+               <head>Upon Midsummer-day for the Election of the Sheriffs of <hi>London.</hi>
+               </head>
+               <p>My Lord Mayor and the Aldermen, with the Sheriffs, méet at the <hi>Guild-Hall</hi> at eight of the Clock in the Morning, apparelled in their Violet Gowns lined, and their Cloaks of Scarlet lined, without their Horses.</p>
+               <p>And when they have been together in the Council-Chamber a certain time, concer<g ref="char:EOLhyphen"/>ning the nomination of certain persons to be Elected, my Lord and the Aldermen come out, and put on their Cloaks in the Orphans Court, and then go down in or<g ref="char:EOLhyphen"/>der to the Hustings Court, and there being set, Master Recorder standeth up, and maketh his Obeysance, first to my Lord, and then unto the Commons, and decla<g ref="char:EOLhyphen"/>reth unto them wherefore they are assembled together, shewing unto them that it is for the Election of one of the Sheriffs of <hi>London,</hi> and the Sheriff of <hi>Middlesex</hi> for the Year next ensuing, and the CONFIRMATION of the other Sheriff nominated by my Lord Mayor, according to his PREROGATIVE; and also for Master Chamberlain and other Officers.</p>
+               <p>But my Lord and the Aldermen go up to my Lord's Court, and there remain until the Sheriff be named and chosen, the door shut to them.</p>
+               <p>Then Master Sheriffs, Master Chamberlain, Master Common Serjeant, Master Town-Clerk, and the Counsellors of the City, and other Officers, remain still in the Hustings Court, to take and receive the Name of him that shall seem by their judgments, fréely and with one consent to be nominated and elected, and justly tried out, not onely by voice, but also by hands, to be Sheriff for the Year following. <hi>P.</hi> 1. 2. 3.</p>
+            </div>
+            <div type="procedure">
+               <head>For Election of Knights and Burgesses of the Parliament.</head>
+               <p>
+                  <hi>All the Aldermen méet my Lord, and the Sheriffs at</hi> Guild Hall <hi>at Nine of the Clock in Violet Gowns, and Their Cloaks Furred or Lined as the time of the Year when they shall be Chosen Requireth, and sit in the Huslings Court while the Commons Chuse them. The Order is, That they must Chuse Master Recorder for one of their Knights, and One Gray Cloak for the other; And Two Commoners for the Burgesses, which done, they Depart.</hi> P. 30.</p>
+               <pb n="3" facs="tcp:48694:2"/>
+               <p>As to the <hi>day</hi> of <hi>Election,</hi> It was formerly St. <hi>Matthew</hi>'s <hi>Day;</hi> but by an Act of Common Council, 7 <hi>Car.</hi> 1. (The like Act having been formerly made, 36 <hi>Eliz.</hi> onely with less Penalties) All Former Acts touching <hi>Election</hi> and <hi>CONFIRMATION</hi> of <hi>Sheriffs</hi> (the Penalties having been too mild) made <hi>Void.</hi> The <hi>day,</hi> as well for <hi>Confir<g ref="char:EOLhyphen"/>mation,</hi> and <hi>Allowance</hi> of such Persons as shall be Chosen and Elected by the Lord May<g ref="char:EOLhyphen"/>or to be <hi>Sheriffs,</hi> as for the Choice of such other persons as by the <hi>Lord Mayor, Alder<g ref="char:EOLhyphen"/>men and Commons</hi> shall be Chosen, shall be the 24th of <hi>June.</hi>
+               </p>
+               <p>We shall now come to the Practice of my Lord Mayor's Chusing <hi>One Sheriff;</hi> The <hi>Antiquity</hi> of it; And see what the <hi>City-Records</hi> say upon it.</p>
+            </div>
+            <div type="procedure">
+               <head>Touching the Election of Sheriffs of <hi>London</hi> and <hi>Middlesex.</hi>
+               </head>
+               <p>The Charters are to the Citizens to Chuse their <hi>SHERIFFS:</hi> but by Usage, and Particular By-Laws Those Elections have been Restrained to the Liveries.</p>
+               <p>
+                  <hi>Edward</hi> 2. sent down a Writ Reciting that the Citizens are to Chuse their Mayor and Sheriffs, and That These Elections used to be <hi>per Majorem &amp; Aldermanos, nec non discretiores Civitatis.</hi>
+               </p>
+               <p>In an Act of Common-Council, 4 <hi>H.</hi> 5. is recited, that <hi>Major &amp; Vicecomites liberè &amp; Indifferenter Eligi deberent per sufficientiores Civitatis, pro Electionibus hujusmodi summonitos.</hi>
+               </p>
+               <p>21 <hi>Hen.</hi> 8. A Letter from the Court of Aldermen acquainting one, that he had been Chosen by the Commonalty, and to be associate with another before appointed by the <hi>Mayor,</hi> and by the <hi>Citizens Confirmed.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 1630. One Elected by the <hi>Mayor</hi> (his said Election being also <hi>Confirmed</hi> by the Livery of the Companies) appeared before the Court of Aldermen.</p>
+               <p>In all <hi>Entries</hi> Extant of <hi>Sheriffs,</hi> Chosen to the 20th <hi>Year</hi> of <hi>E.</hi> 2. (where any men<g ref="char:EOLhyphen"/>tion is made by whom they were Chosen) it is <hi>Per Cives,</hi> or <hi>Per Majorem, Alderma<g ref="char:EOLhyphen"/>nos &amp; Probos Homines Civitatis,</hi> or <hi>Per Communitatem;</hi> and once, <hi>Per Custodem &amp; Al<g ref="char:EOLhyphen"/>dermanos.</hi>
+               </p>
+               <p>7 E. 2. <hi>Per Common Councell, Probi Homines Ward'</hi> to be summon'd <hi>pro Electione Vice-Comitis facienda unà cum Majore &amp; Aldermanis.</hi>
+               </p>
+               <p>20 E. 3. <hi>Per Common Councell;</hi> For that divers Citizens Absent themselves to Avoid the Office of <hi>Sheriff</hi> on the day of Election, Those that so do shall forfeit 100 <hi>li.</hi> and Every Year the <hi>Mayor</hi> to say in his Conscience, and by his Oath, If he had Chosen any other than he hath Chosen were he present; and he had named the Person <hi>(q'il eust esluz autre Person q'il nad eslu s'il eust estè present &amp; nomme la Personne)</hi> And the Commonalty in the same manner.</p>
+               <p>From the 20th of <hi>E.</hi> 2. to 21 <hi>E.</hi> 3. no Entry is made of Sheriffs Chosen; and in That year the Entry is a Congregation of the Mayor, Aldermen, and Commons to Chuse Sheriffs according to the Custom of the City, wherein One Sheriff was Cho<g ref="char:EOLhyphen"/>sen <hi>per Majorem,</hi> and the Other <hi>per Communitatem.</hi>
+               </p>
+               <p>Entry is made constantly (Except in Two years, wherein it is not mentioned by whom they were Chosen, to the 14th of <hi>Hen.</hi> 8.—That year; And so to the 20th <hi>Eliz.</hi> (Except 20 <hi>&amp;</hi> 21 <hi>H.</hi> 8. where 'tis <hi>Ʋn Nominat' per Majorem, Alter per Communitatem</hi>) 'Tis <hi>One Named per Majorem, Alter Elected per Communitatem.</hi>—20 <hi>Eliz.</hi> and for 7 years after 'tis <hi>un Elect' per Major';</hi> and so is 34 <hi>Eliz.</hi> 28 <hi>Eliz.</hi> and to the 33d it is <hi>Nominat' per Majorem.</hi> —33 Eliz. <hi>Nominat' &amp; Elect' per Majorem.</hi> — 35 to 41 <hi>&amp;</hi> 42 Eliz. <hi>Nominat' per Major'.</hi>
+               </p>
+               <p>36 <hi>Eliz.</hi> and so to 17 <hi>Car.</hi> 1. Report made of the Person Chosen <hi>per Major', per Prerogativam suam,</hi> &amp;c. Then the Commons chose Another, whereupon the Electi<g ref="char:EOLhyphen"/>on of both was <hi>Confirmed</hi> by the <hi>Mayor, Aldermen, and Commonalty.</hi>
+               </p>
+               <p>In Four years betwixt 21 <hi>E.</hi> 3. and 17 <hi>Car.</hi> 1. Two were Named and Elected <hi>per Communitatem;</hi> but in all Those years the Mayor had before Chosen, and the Persons by him Chosen refused the Office, and underwent the forfeiture before the <hi>Common-Hall</hi> began.</p>
+               <p>17 <hi>Car.</hi> 1. 1641. The House of Lords (in the Difference between the Lord Mayor and Commons touching the Election of Sheriffs) Ordered that the Commonalty should Chuse both <hi>pro hac vice,</hi> saving each other's Right.</p>
+               <pb n="4" facs="tcp:48694:3"/>
+               <p>From That to 1663, The Commons never Confirmed the Mayor's Sheriff; but Chose two themselves. But 1663, 15 <hi>Car.</hi> 2. And so to 1680, Except 1674, the <hi>Mayor</hi>'s <hi>Sheriff</hi> was Confirm'd, <hi>Prout</hi> 36 <hi>Eliz.</hi> — 26 <hi>Car.</hi> 2. The Commons not Con<g ref="char:EOLhyphen"/>firming the <hi>Mayor's Sheriff,</hi> the Lord Mayor and Aldermen Dissolved the <hi>Common Hall</hi> without Determining the Election of Sheriffs: Afterwards, the Common Council (for an Expedient of Accommodation) Exempted him that the Lord Mayor had so Cho<g ref="char:EOLhyphen"/>sen, from the Shrievalry for Three Years, upon his sealing a Bond to pay the for<g ref="char:EOLhyphen"/>feiture, if being then drunk to by the Lord Mayor, and Presented to the Common-Hall, or Elected by the Commons he should not <hi>hold.</hi> This was one Mr. <hi>Roberts,</hi> who by telling the Common-Hall that his Estate was abroad, and (it being in time of War) in danger of Loss, prevailed with them to refuse to <hi>Confirm</hi> him: But my Lord Insisting upon his Prerogative, he gave Bond <hi>ut supra.</hi> The Person is now dead, and Judgment obtain'd against his Executors upon the Bond.</p>
+               <p>In 1680, The Mayor Elected, or Drank to <hi>six Persons.</hi> The former Five paid their <hi>Fines,</hi> and the Commons refusing to <hi>Confirm</hi> the <hi>Last;</hi> to end the Dispute, he Seal'd the Bond to pay the forfeiture.</p>
+               <p>1681. They would not Confirm; but requir'd that the Election of both Sheriffs might be Determin'd by a <hi>Poll;</hi> which the Sheriffs Granted; but the Court of Alder<g ref="char:EOLhyphen"/>men Declar'd against it; and call'd out him that the Lord Mayor had Chosen as <hi>She<g ref="char:EOLhyphen"/>riff-Elect,</hi> while the Commons were <hi>Polling.</hi>
+               </p>
+               <p>Having had often occasion to make mention of the <hi>Sheriff</hi>'s <hi>Bond,</hi> it will not be amiss in this place to Insert the Condition of it; <hi>viz. [If the above Bound</hi> A. B. <hi>shall and do Personally appear in the Publick Assembly of the</hi> Guild-hall <hi>on the</hi> Vigil <hi>of Saint</hi> Michael the Arch-Angel <hi>next ensuing, betwixt the hours of Eight and Twelve in the Forenoon; And shall then and there take upon him the Office and Charge of</hi> Shrievalry <hi>of the City of</hi> London, <hi>and County of</hi> Middlesex <hi>for the Year next ensuing; Then,</hi> &amp;c.]</p>
+            </div>
+            <div type="procedure">
+               <head>Lib. Albus <hi>&amp;</hi> Dunthorne.</head>
+               <p>Speaking of Election of the Sheriffs, say that the Mayor shall first Chuse one; for whom he will Answer of the Moity of the Farm, if the Person be not sufficient; but if he Chuse by advice of the Aldermen, they are to answer with him; And the Com<g ref="char:EOLhyphen"/>mons shall Chuse another; for whom they will answer the <hi>other Moity.</hi>
+               </p>
+               <p>Act of <hi>Com. Coun.</hi> 7. <hi>R.</hi> 2. That the Election of Sheriffs shall be made on St. <hi>Mat<g ref="char:EOLhyphen"/>thew</hi>'s-<hi>day;</hi> and when the Commons shall be agreed upon an able Person, they shall Present him to the Mayor and Aldermen.</p>
+               <p>Another Act, 5. <hi>H.</hi> 4. on St. <hi>Matthew</hi>'s day, after a Sheriff <hi>(Postquam Vicecomes)</hi> shall be Elected by the Commonalty, the Mayor, Aldermen and Commons shall chuse Chamberlain, <hi>&amp;c.</hi> And that none come to the Election of Mayor and Sheriffs, unless Summoned; and those the more Sufficient of the City, or Common-Council<g ref="char:EOLhyphen"/>men.</p>
+               <p>Another, 5. <hi>E.</hi> 6. Where it was lately Enacted, that on the day of Election of one of the Sheriffs, four Surveyors of the <hi>Brewers</hi> should be chosen by the Commons in like manner as the said Sheriff.</p>
+               <p>23. <hi>Eliz.</hi> Alderman <hi>Martyn</hi> having been treated with by a Committee of Common-Council touching acceptance of the Office of one of the Sheriffs, Declared in Common-Council, he would accept it, if my Lord Mayor Elect him thereunto; who did after<g ref="char:EOLhyphen"/>ward Elect him accordingly.</p>
+               <p>22. <hi>H.</hi> 6. The Mayor named one Sheriff to be Assigned in the name of him, and the Aldermen; and then they left the Commons to make their Election (as they now do, and always have done for ought appears, and did in the Troubles when the Commons chose both Sheriffs) who chose another; divers coming in here that were not Sum<g ref="char:EOLhyphen"/>mon'd, the aforesaid Writ of <hi>E.</hi> 2. was read.</p>
+               <p>16. <hi>R.</hi> 2. Upon the King's Writ to the <hi>Custos,</hi> Aldermen and Commons, to chuse Sheriffs according to Ancient Custom and Usage, the <hi>Custos</hi> chose one, and the Com<g ref="char:EOLhyphen"/>monalty another.</p>
+               <p>18. <hi>H.</hi> 8. One Elect by the Commons to joyn with him that was before named by the Mayor, (by his <hi>Prerogative</hi>) and also according to the <hi>Ancient Rules and Ordi<g ref="char:EOLhyphen"/>nances</hi> [33. <hi>H.</hi> 8. According to Divers <hi>Ancient Laws, Ʋsages,</hi> and <hi>Customs.</hi>]</p>
+               <pb n="5" facs="tcp:48694:3"/>
+               <p>19. <hi>H.</hi> 8. One named by the Mayor in the Court of Aldermen, agreed to take the Office upon him — 13. <hi>H.</hi> 8. The <hi>Mayor</hi>'s <hi>Sheriff</hi> call'd the <hi>KING'S SHERIFF.</hi>
+               </p>
+               <p>Act of <hi>Common Council</hi> 19. <hi>H.</hi> 8. If any be named and Elected by the Mayor, ac<g ref="char:EOLhyphen"/>cording to his Ancient <hi>PREROGATIVE,</hi> or by the Commonalty, and take not the Office on <hi>Michaelmas-Eve,</hi> he shall forfeit, <hi>&amp;c.</hi> To which was added 6. <hi>E.</hi> 6. that if any mo than one being duty Elected 1. <hi>Aug.</hi> or any other time between that and <hi>Micha<g ref="char:EOLhyphen"/>elmas-Eve,</hi> make Default, <hi>&amp;c.</hi>
+               </p>
+               <p>21. <hi>H.</hi> 8. This <hi>Prerogative</hi> of the Lord Mayor said (In a Letter of his to the <hi>She<g ref="char:EOLhyphen"/>riff Elect</hi>) to be by the <hi>Ancient Liberties, Time out of mind,</hi> Used; And 22. <hi>H.</hi> 8. said to be (upon swearing of the Sheriffs) of <hi>Ancient Time</hi> Used, and Accustom<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> So in an Act of <hi>Common-Council,</hi> 13. <hi>Eliz.</hi>
+               </p>
+               <p>Act of <hi>Com. Coun.</hi> 30. <hi>H.</hi> 8. Election of Sheriffs for the Commonalty shall be on St, <hi>Peter's-day,</hi> provided the Mayor shall at any time before <hi>Lammas,</hi> Name and Elect one of the Sheriffs at his Pleasure.</p>
+               <p>Act 13. <hi>Eliz.</hi> If any one be chosen Sheriff, either by the Mayor or else by the Commons, and Appear not within five days after notice, he shall forfeit, <hi>&amp;c.</hi>
+               </p>
+               <p>Act 24. <hi>Eliz.</hi> Former Acts being Various and Insufficient, 1. <hi>Aug.</hi> Now appointed the day for <hi>Confirmation,</hi> Allowance and Election of the Persons to be Named Sheriffs by the Mayor according to <hi>Ancient Ʋsage;</hi> and for Election of another by the Lord Mayor and Commons, none so Nominated or Elected shall be Excus'd, <hi>&amp;c.</hi>
+               </p>
+               <p>If any Nominated by the Mayor and Commons (and Publication thereof made in Presence of the Mayor, six Aldermen, and the Commons there Assembled) shall not appear at the next Court of Aldermen, or shall refuse, he shall forfeit, <hi>&amp;c.</hi> If the Person Named shall before the 1. of <hi>Aug.</hi> refuse the Office, <hi>&amp;c</hi> The Lord Mayor may before the 1st. of <hi>Aug.</hi> Nominate again.</p>
+               <p>None who shall be Chosen or Elected according to 7. <hi>Car.</hi> 1. shall be Discharged, if worth 10000 <hi>li.</hi>
+               </p>
+               <p>If any forfeiture should be made by any that shall first be Chosen or Elected by the Lord Mayor, Part of such forfeitures shall be to him that shall first in the same year Ac<g ref="char:EOLhyphen"/>cept the Office; And if after such Acceptance, other Forfeitures shall be made by any chosen by the Lord Mayor, Aldermen, and Commons, part thereof shall be to him that shall first after Accept the Office, being Elected by the Lord Mayor, Aldermen, and Commons, and that no Alderman by Posteriority of Election be Inferior to a Commo<g ref="char:EOLhyphen"/>ner while there is an Alderman Eligible.</p>
+               <p>Most Years since the Beginning of Q. <hi>Eliz.</hi> Sheriffs Elected by the Mayor, have before <hi>Midsummer</hi> either paid the forfeiture for <hi>not holding;</hi> or sworn themselves not of <hi>Ability;</hi> or <hi>Sealed Bonds</hi> to <hi>Hold,</hi> and have been frequently call'd out upon the <hi>Hu<g ref="char:EOLhyphen"/>stings</hi> (the Act requiring that <hi>Sheriffs Elect</hi> shall be <hi>Call'd out;</hi> and then, if not appear<g ref="char:EOLhyphen"/>ing, to forfeit, <hi>&amp;c.</hi>) And the <hi>Commons Sheriff</hi> only call'd out on <hi>Midsummer-day.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 1630. One, Elected Sheriff by the Lord Mayor refused to <hi>Hold,</hi> or pay his <hi>forfeiture</hi> as Anciently accustomed; but desired Respite till <hi>Midsummer-day;</hi> The Mayor and Aldermen, Unwilling to give way to such Innovation, call'd him forth, and he persisting in his Refusal, the Lord Mayor chose another.</p>
+               <p>Pray take Notice (as we told you before) that the Charter is directed <hi>Civibus,</hi> That is to say, To the <hi>Mayor, Aldermen,</hi> and <hi>Community;</hi> And that the <hi>Common-Hall</hi> is neither a <hi>Community,</hi> nor a <hi>Representative</hi> of the <hi>Citizens,</hi> having no other Founda<g ref="char:EOLhyphen"/>tion, but the Authority of a <hi>By-Law.</hi>
+               </p>
+               <p>Observe again that upon the Lord Mayor's coming out of the <hi>Council-Chamber</hi> into the <hi>Hall,</hi> the Court is <hi>Proclaim'd,</hi> the <hi>Town-Clerk</hi> Dictating the <hi>Form</hi> to the <hi>Common-Cryer:</hi> After which, the Lord Mayor and Aldermen withdraw into the <hi>Mayor</hi>'s-<hi>Court,</hi> expecting the <hi>Common-Serjeant</hi>'s <hi>Report</hi> of what is done in the <hi>Hall.</hi> In the Conclu<g ref="char:EOLhyphen"/>sion, the Mayor and Aldermen return again into the <hi>Hall;</hi> and the <hi>Recorder</hi> is Com<g ref="char:EOLhyphen"/>manded to Declare the Persons chosen. The Reason of the Mayor's <hi>Withdrawing,</hi> is to Preserve his <hi>Negative,</hi> and his <hi>going down</hi> is to Declare his <hi>Assent:</hi> But the Procla<g ref="char:EOLhyphen"/>mation is very Express, As to the Right of the Mayor, and the Words are These.</p>
+               <p>
+                  <hi>You, Goodmen of the Livery, Summoned hither this day for</hi> Confirmation <hi>of</hi> A. B. <hi>E<g ref="char:EOLhyphen"/>lected by the Lord Mayor by his</hi> PREROGATIVE, <hi>to be one of the Sheriffs for the year ensuing; and for Election of another Person to be the other of the said Sheriffs; draw near,</hi> &amp;c.</p>
+               <p>Now the <hi>Precept</hi> you must know was in the words of the <hi>Proclamation;</hi> and the <hi>Pro<g ref="char:EOLhyphen"/>clamation</hi>
+                  <pb n="6" facs="tcp:48694:4"/> in the very words of the <hi>Act of Common-Council.</hi>
+               </p>
+               <p>Here is enough said of the <hi>Right and Practice</hi> of my Lord <hi>Mayor</hi>'s chusing <hi>one Sheriff:</hi> We shall now say something to the <hi>Nature</hi> of this <hi>Right,</hi> and shew that this Privilege of my Lord Mayor's is Grounded as well upon <hi>Reason</hi> as upon <hi>Custom.</hi>
+               </p>
+               <p>The Government of the City of <hi>London</hi> was never a <hi>Democracy;</hi> but a Body Poli<g ref="char:EOLhyphen"/>tique, Consisting of a Head and Members; by the Name of the Mayor, Commonalty, and Citizens: In which Constitution the Mayor is not only an Integral Part; but the most Eminent and Principal, as the Head to the Body; and nothing can be done by the Corporation without him; All their Assemblies, as <hi>Common-Councils,</hi> and <hi>Common-Halls,</hi> being <hi>Call'd</hi> and <hi>Dissolv'd</hi> by him at <hi>pleasure.</hi>
+               </p>
+               <p>This is the Nature of the Corporation of <hi>London</hi> in its Institution; Other Corpo<g ref="char:EOLhyphen"/>rations that are by <hi>Charter,</hi> either have or may have such Particular Provision by their <hi>Patents,</hi> that in <hi>Elections</hi> the <hi>Mayors</hi> are <hi>Present</hi> and Concluded by the <hi>Majority.</hi> In a word; Every several Corporation is a several <hi>species</hi> of Government: If they are by <hi>Prescription,</hi> then <hi>Custom</hi> Governs all their Proceedings; If they are by <hi>Charter,</hi> with<g ref="char:EOLhyphen"/>in time of <hi>Prescription</hi> (which is since 1. <hi>R.</hi> 1.) then they can pretend to <hi>no Custom;</hi> but must be Govern'd by their <hi>Charter:</hi> But whether by <hi>Prescription</hi> or <hi>Charter,</hi> they may make Reasonable <hi>By-Laws</hi> for the better Order of their Proceedings; And such By-Laws formally made, will Conclude All that are bound by <hi>By-Laws.</hi>
+               </p>
+               <p>As this is a Corporation of the greatest Eminency in <hi>England,</hi> so it has Officers of all Degrees belonging to it. The <hi>Lord Mayor</hi> is the <hi>Chief;</hi> His <hi>Council,</hi> the <hi>Alder<g ref="char:EOLhyphen"/>men;</hi> And these make up the <hi>Principal Court</hi> of the <hi>Corporation.</hi> They have a <hi>Re<g ref="char:EOLhyphen"/>corder,</hi> to <hi>Advise</hi> them; And then there is the <hi>Chamberlain, Town-Clerk, Common Ser<g ref="char:EOLhyphen"/>jeant, Cryers,</hi> &amp;c. These are Officers of the <hi>Corporation.</hi>
+               </p>
+               <p>The Officers relating to the <hi>Government,</hi> as <hi>Justices of the Peace, Sheriffs, Constables, Coroners,</hi> are the <hi>Kings Officers,</hi> as it is a County of it self; and are not Officers of the <hi>Corporation;</hi> for the <hi>Lord Mayor</hi> is by the Common-Law the Chief <hi>Conservator</hi> of the Peace of the City; and all Ministerial Officers of the Peace, as the Sheriffs, Consta<g ref="char:EOLhyphen"/>bles, <hi>&amp;c.</hi> are to be Obedient to his Directions and to Attend him: And of this his Au<g ref="char:EOLhyphen"/>thority, the <hi>King</hi>'s <hi>Sword</hi> being in his Custody is the <hi>Ensign.</hi>
+               </p>
+               <p>This being the Nature of the Body Politique, and Government of the City of <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> First, The Mayor has a <hi>Double Capacity.</hi> He is the <hi>King</hi>'s <hi>Officer</hi> as well as <hi>Head</hi> of the <hi>Corporation.</hi> He is the <hi>King</hi>'s <hi>Vicegerent</hi> and Intrusted with the Government of the <hi>City,</hi> to Maintain it in due Course of Law; and therefore he is <hi>Presented</hi> to the <hi>King,</hi> and <hi>Approved</hi> by him, and <hi>sworn</hi> to the <hi>King,</hi> and makes his appearance in the Courts of <hi>Westminster-Hall.</hi> 2ly. The <hi>Sheriffs</hi> are only the <hi>King</hi>'s <hi>Officers,</hi> and not the Officers of the <hi>Corporation.</hi> They are Attendant upon the Mayor's Person, in all Great Assemblies, as he is the <hi>Conservator</hi> of the <hi>Peace.</hi> They are <hi>chosen</hi> by the <hi>Corporation,</hi> 'tis true; yet that Alters not the Condition of the <hi>Office;</hi> but they are still the <hi>King</hi>'s <hi>Officers</hi> and have but the same Power, as if the King Nam'd them.</p>
+               <p>This Privilege being Granted within time of Memory to the Citizens, there can be <hi>no Cu<g ref="char:EOLhyphen"/>stoms</hi> to <hi>Annex</hi> their Office to the <hi>Corporation,</hi> or to make them Subservient to it. King <hi>John</hi> Grants to the Citizens Power to chuse their Sheriffs. The Consequence of this Grant was, That if the King had appointed Sheriffs; and they not Responsible to him, he must have lost his Right: But now the <hi>Citizens</hi> are Answerable for the <hi>Sheriffs.</hi> There are some that will Infer from this Grant, that <hi>the Citizens are to chuse the Sheriffs,</hi> and my <hi>Lord Mayor</hi> has nothing to do to <hi>Refuse</hi> them. The Answer to this is Obvious; The <hi>Citizens</hi> is <hi>one</hi> way of expressing the <hi>Corporation;</hi> And the <hi>Mayor, Commonalty, and Citizens,</hi> is <hi>another;</hi> but they are still <hi>the same Corporation;</hi> So that a <hi>Grant</hi> to the <hi>Citizens</hi> that they shall <hi>chuse,</hi> and a <hi>Grant</hi> to the <hi>Mayor and Commonalty</hi> that they shall chuse, is one and the same thing. The <hi>Commonalty</hi> without the <hi>Mayor</hi> are not a <hi>Corporation</hi> to any Purpose whatsoever, and therefore the <hi>Grant</hi> is <hi>Void,</hi> unless understood of the <hi>Mayor,</hi> as well as of <hi>Them.</hi> The <hi>Corporation</hi> cannot <hi>meet</hi> without the <hi>Mayor,</hi> nor <hi>sit</hi> longer than <hi>he plea<g ref="char:EOLhyphen"/>ses,</hi> as it appears; for the Assembly of the <hi>Commons</hi> is either by their <hi>Common-Council,</hi> or <hi>Common-Hall;</hi> both which are Summon'd at the Lord Mayor's pleasure (as is said alrea<g ref="char:EOLhyphen"/>dy,) and so Dissolv'd, or Adjourn'd. The <hi>Common-Seal</hi> is Govern'd by the <hi>Common-Council;</hi> and Matters Sealed by the <hi>Common-Seal</hi> run in the style of the <hi>Mayor and Commonalty;</hi> so that nothing of that kind is Valid without the Concurrence of the Mayor.</p>
+               <p>The Lord Mayors have taken care to preserve This Privilege of a <hi>Negative</hi> by being <hi>Absent</hi> at the time of the Choice; If they were <hi>present,</hi> it might be said a <hi>Concurrence;</hi>
+                  <pb n="7" facs="tcp:48694:4"/> but being <hi>Absent,</hi> there can be no room for That; but the Mayor hath it reserv'd to <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Discretion, whether he will <hi>joyn</hi> or not, after he shall be Informed of the Procee<g ref="char:EOLhyphen"/>dings. Herein the Commons have been mistaken, in thinking it their <hi>Privilege,</hi> to have the Mayor <hi>absent,</hi> as if their Assembly were less free; but truly it is the Privilege of the <hi>Mayor</hi> thus to Preserve his <hi>Negative.</hi>
+               </p>
+               <p>The Lord Mayors have taken care to preserve their <hi>Negative</hi> by a <hi>Prae-election;</hi> whereby they put it upon the <hi>Commonalty</hi> to Destroy the Election by disagreeing, with the <hi>Mayor,</hi> that the Lord <hi>Mayor</hi> may not have the <hi>Odium</hi> of Disagreeing with them un<g ref="char:EOLhyphen"/>less they first give occasion.</p>
+               <p>The <hi>Negative</hi> is reasonable, because it may be the King would not have <hi>Granted</hi> this Choice of Sheriffs to the City, if they had been a <hi>Corporation</hi> without a <hi>Head;</hi> but relyed upon the <hi>Mayor</hi>'s <hi>Governance,</hi> who is a <hi>Responsible Person,</hi> and the <hi>King</hi>'s <hi>Officer;</hi> and <hi>presented</hi> to the King, and <hi>sworn</hi> to him; So that the Mayor is under, an <hi>Oath</hi> to Chuse <hi>fit Persons</hi> to serve the King in the Office of <hi>Sheriffs.</hi>
+               </p>
+               <p>This <hi>Negative</hi> is Reasonable again, in Regard that by <hi>Law</hi> they which Chuse Offi<g ref="char:EOLhyphen"/>cers to receive the King's <hi>money,</hi> are answerable to the King in the Case of Insufficiencie; And the Mayor may be <hi>Personally Liable</hi> in this Case, though he Acts in a <hi>Politique Capacity.</hi>
+               </p>
+               <p>This <hi>Negative</hi> is more strong yet; because the <hi>Sheriffs</hi> are the <hi>King</hi>'s <hi>Officers;</hi> and not the Officers of the <hi>Corporation;</hi> so that whatsoever they may doe concerning <hi>their own Officers,</hi> they cannot Exclude the <hi>Mayor</hi> in the Choice of the <hi>King</hi>'s.</p>
+               <p>It seems here to be a <hi>Material Objection,</hi> that by this means there may come to be <hi>no Choice;</hi> for the Mayor and the Common-Hall perhaps will not Agree: But therefore say I the Commons are <hi>bound</hi> to <hi>Confirm;</hi> and That way they are <hi>sure;</hi> If they are not <hi>bound</hi> to <hi>Confirm,</hi> neither are they <hi>bound</hi> to <hi>Elect;</hi> so that 'tis as Broad as 'tis Long, take it which way you please: But if the <hi>Commons</hi> are <hi>Free Agents,</hi> and may either <hi>Confirm,</hi> or <hi>not Confirm,</hi> Is not the <hi>Mayor</hi> a <hi>Free Agent</hi> as well; And at the <hi>same Liberty</hi> with the <hi>Commons? Magna Charta,</hi> that saies, <hi>Omnes Electiones sint liberae,</hi> Extends as well to Preserve the Freedom of the <hi>Mayor,</hi> and <hi>all other People,</hi> in regard to <hi>One another,</hi> as in regard to the <hi>King.</hi> By <hi>Their way,</hi> the <hi>Mayor</hi> doth not <hi>Elect at all,</hi> which is Inconsi<g ref="char:EOLhyphen"/>stent with their First Grant; but by the <hi>Old way,</hi> the Mayor and they Elect <hi>Reciprocal<g ref="char:EOLhyphen"/>ly;</hi> so that they may <hi>all</hi> properly be said to <hi>Elect.</hi> If <hi>A.</hi> and <hi>B.</hi> are to Joyn in an Elec<g ref="char:EOLhyphen"/>tion of Two Officers, will it not be unreasonable in either of them to Claim the Na<g ref="char:EOLhyphen"/>ming of Both?</p>
+               <p>This Reason Back'd with so <hi>long Ʋsage;</hi> Made out by so many of the <hi>City Records,</hi> and <hi>By-Laws,</hi> should methinks stop the Mouths of All men. For so <hi>Long Ʋsage</hi> hath been Accounted a Ground to Presume <hi>Record;</hi> though it cannot be shew'd: Nay to Presume <hi>Acts of Parliament</hi> between <hi>Common Persons</hi> (though not against the <hi>King</hi>) and therefore All that <hi>can</hi> be Presum'd <hi>ought</hi> to be Presum'd, in favour of so Ancient an <hi>Ʋsage.</hi> They Object that <hi>Election</hi> must be according to their <hi>Charter;</hi> and <hi>Ʋsage</hi> will make nothing; Whereas the <hi>Charter</hi> Implies Nothing, but that the Choice shall be with the <hi>Mayor</hi> and <hi>Commonalty,</hi> as is said before. Now in relation to the <hi>King,</hi> it is not ma<g ref="char:EOLhyphen"/>terial by what <hi>Rules</hi> they proceed to <hi>Elect,</hi> or upon what <hi>reasons</hi> they go, so as they make a <hi>Choice</hi> wherein the <hi>Mayor</hi> and <hi>Commonalty</hi> Joyn. Suppose there were a <hi>By-Law</hi> that the Mayor should Elect by Advice of the Court of Aldermen; If he Proceeded that way it would be nevertheless an <hi>Action.</hi> I do Imagine there was a <hi>By-Law</hi> that the <hi>Citizens</hi> should Elect by their <hi>Livery-men;</hi> which Constitute the <hi>Common-Hall:</hi> This is so far from being against the <hi>Charters,</hi> that it was Absolutely Necessary; to avoid <hi>Con<g ref="char:EOLhyphen"/>fusion,</hi> and <hi>Strife.</hi> The <hi>Charters</hi> did not intend <hi>Every</hi> Citizen should Joyn, No, Nor the <hi>Major Part</hi> of them. That would be an Intolerable Trouble; but onely the <hi>Major</hi> Part of them which should be <hi>Present;</hi> And when the Assemblies were so full that they were <hi>Tumultuous,</hi> 'twas necessary to restrain the Number of the <hi>Liveries.</hi> And why should This be against the <hi>Charter,</hi> when All Corporations have Power of making <hi>Reasonable By-Laws?</hi> It may well be supposed, that when the <hi>Citizens</hi> in General, Deputed the <hi>Li<g ref="char:EOLhyphen"/>very-men</hi> to Act for them in Elections, they Enjoyn'd them to <hi>Confirm my Lord Mayor's Sheriff;</hi> Whereupon he was look'd upon as a <hi>Complete Sheriff;</hi> and the <hi>Confirmation</hi> but a <hi>Formality;</hi> That according to the <hi>Charter,</hi> the whole <hi>Body</hi> might concurr to the <hi>Act.</hi> These <hi>Livery men</hi> may be said then to break their Trust, in denying the <hi>Confir<g ref="char:EOLhyphen"/>mation,</hi> (after so <hi>long Ʋsage</hi>) to the hazzard of a <hi>Confusion;</hi> much rather than Those <hi>Former Livery-men,</hi> who were nearer the Times of such Constitutions, to break <hi>Their
+<pb n="8" facs="tcp:48694:5"/> Trust,</hi> and betray the Liberties of the City, in allowing the Election of my Lord Mayor. It is in<g ref="char:EOLhyphen"/>deed of it self much Declin'd from the Gravity of the <hi>Ancient Common-Hall,</hi> which, at That time, when there were but 12 <hi>Companies,</hi> Consisted of the most <hi>Sober</hi> and <hi>Substantial Citizens:</hi> but <hi>now,</hi> by the <hi>Multiplying</hi> of <hi>Companies,</hi> and Bringing in <hi>Mean Artificers,</hi> and by Calling on to the Livery, not onely persons of a <hi>Law Condition;</hi> but whole Shoals of men <hi>Disaffected</hi> to the Government, to En<g ref="char:EOLhyphen"/>crease a <hi>Party;</hi> It is no wonder that This Assembly is fallen into Great Disorder.</p>
+               <p>Here's a great deal said, to Prove, in Effect, that <hi>the Sun Shines;</hi> for the Lord Mayor's <hi>Right</hi> up<g ref="char:EOLhyphen"/>on the Matter in <hi>question</hi> is no less <hi>Indubitable,</hi> and <hi>Clear;</hi> At least if the <hi>City-Records,</hi> and the Ex<g ref="char:EOLhyphen"/>press <hi>Reason,</hi> and <hi>Intent</hi> of his <hi>Commission</hi> may go for any thing. But to come to the Point, The <hi>Mayor</hi>'s <hi>Claim</hi> is the least Thing in the Controversie; For this Dispute is Started for the Engaging of a <hi>Party;</hi> not the Deciding of a <hi>Right.</hi> The <hi>People</hi> are first Entitled to the <hi>sovereignty;</hi> And then (up<g ref="char:EOLhyphen"/>on a Suggestion that their <hi>Privileges</hi> are <hi>Invaded;</hi> they are Provoked to draw their <hi>Swords,</hi> and <hi>De<g ref="char:EOLhyphen"/>fend</hi> them. This was the Trick that did the Feat in 1641. The <hi>Lord Mayor,</hi> and <hi>Aldermen</hi> were to be <hi>Levell'd</hi> with the <hi>Commons:</hi> His Lordship's Authority of <hi>Summoning</hi> and <hi>Dissolving</hi> was <hi>first, Question'd, (so far we are gon already)</hi> and <hi>afterwards, taken away.</hi> Nay the <hi>Mayor himself, follow'd;</hi> and these Encroachments brought on by Degrees, the ruin of <hi>King, Church,</hi> and <hi>People;</hi> and, in short, of the <hi>Three Kingdoms.</hi> He Conclude with the Sum of what befell the City upon giving way to <hi>These Innovations.</hi>
+               </p>
+            </div>
+            <div type="act">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Vicesimo Octavo</hi> Februarii, 1648.</date>
+                  </dateline>
+               </opener>
+               <head>An Act of the Commons of <hi>England</hi> in Parliament Assembled, For Removing Obstructions in the Proceedings of the <hi>Common-<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouncil</hi> of the <hi>City</hi> of <hi>London.</hi>
+               </head>
+               <p>THE Commons of <hi>England,</hi> in Parliament assembled, do Enact, and Ordain, and be it Enacted, and Ordained by the Authority aforesaid, that in all times to come, the <hi>Lord Mayor</hi> of the said City of <hi>London;</hi> so often and at such time as any <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or <hi>more</hi> of the <hi>Common-Council-men</hi> do by Writing under their hands, request or desire him thereunto, shall summon, assemble, and hold a <hi>Common-Council,</hi> and if at any time be<g ref="char:EOLhyphen"/>ing so required or desired he shall fail therein, then the <hi>ten p<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rsons</hi> or <hi>more</hi> making such request or desire, shall have Power, and are hereby authorized by Writing under their hand, to summon or cause to be summoned, to the said Council, the Members belon<g ref="char:EOLhyphen"/>ging thereunto, in as ample manner as the <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> M<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>r</hi> himself usually hath done, and that the Members appearing upon the same Summons, being of the Number of 40 or <hi>more,</hi> shall become a <hi>Common Council;</hi> And that each Officer whose duty it shall be to warn in, and Summon the Members of the said Council, shall perform the same from time to time upon the Warrant or Command of <hi>ten Persons,</hi> or <hi>more</hi> so authorized as aforesaid: And it is farther Enacted and Ordained by the Authority aforesaid, that in every <hi>Common-Council</hi> hereafter to be assembled, the <hi>Lord Mayor</hi> of the said City for the time being, or in his absence, such <hi>L<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cum t<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nens</hi> as he shall appoint, and in default thereof, the <hi>Eldest Alderman</hi> present if any be, and for want of such <hi>Alderman,</hi> or in case of his neglect, or refusal therein, then any other <hi>person</hi> Member of the said Council whom the Commons present in the said Council shall chuse shall be from time to time <hi>Presiden<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> or <hi>Cha<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an</hi> of the said Council; and shall cause and suffer all things offered to or proposed in the said Council to be fairly and orderly debated, Put to the Question, Voted, and Determined, in and by the same Council, as the <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>j<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r part</hi> of the Mem<g ref="char:EOLhyphen"/>bers present in the said Council shall desire or think sit; and in every Vote which shall pass, and in the other Proceedings of the said Council, neither the <hi>Lord May<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> nor <hi>Al<g ref="char:EOLhyphen"/>dermen, joynt</hi> or <hi>separate,</hi> shall have any <hi>negative,</hi> or <hi>distinct Voice</hi> or <hi>Vote,</hi> otherwise than with, and among, and as part of the rest of the Members of the said Council, and in the same manner as the other Members have; and that the absence and withdrawing of the <hi>Lo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Mayor,</hi> or <hi>Alderm<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> from the said Council, shall not stop or prejudice the procee<g ref="char:EOLhyphen"/>ding of the said Council; And that every <hi>Common-Council</hi> which shall be held in the City of <hi>London,</hi> shall sit and continue so long as the <hi>Major part</hi> of the Council shall think sit, and shall not be <hi>dissol<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d</hi> or <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> but by, and according to the Order, or Consent of the <hi>Major par<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> of the same Council: And that all the <hi>Votes,</hi> and <hi>Acts</hi> of the said <hi>Com<g ref="char:EOLhyphen"/>mon C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unc<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> which was held <hi>13 January</hi> last, after the departure of the <hi>Lord Mayor</hi> from the same Council, and also all Votes and Acts of every <hi>Common-Council</hi> hereafter to be held, shall be from time to time duly Registred, as the Votes and Acts of the said Coun<g ref="char:EOLhyphen"/>cil have used to be done, in time past. And be it farther Enacted and Ordained by the Authority aforesaid, that every Officer which shall sit in the said Council, shall be from time to time chosen by the said <hi>Council.</hi> and shall have such reasonable Allowance or Sa<g ref="char:EOLhyphen"/>lary, for his pains and service therein, as the <hi>Council</hi> shall think sit: And that every such Officer shall attend the said <hi>Common-Council</hi> and that all <hi>Acts</hi> and <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cords</hi> and <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er-B<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ks</hi> belonging to the said <hi>City,</hi> shall be extant, to be perused and searched into by every <hi>Citizen</hi> of the said <hi>City</hi> in the presence of the Officer who shall have the Charge of keeping thereof, who is hereby required to attend for the same purpose. <hi>Hen. Scobel, <hi>Cler. Parl.</hi>
+                  </hi>
+               </p>
+               <p>Take N<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that the <hi>Vote of Common-Council</hi> in the Act above recited of <hi>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi> 13. 1648. When the <hi>Lord Mayor</hi> w<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and Dismissed the <hi>Court,</hi> was a <hi>Treasonous Vote, for the speedy bringing of the King to Justice.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Joanna Brome,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
